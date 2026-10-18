@@ -1,4 +1,12 @@
-# soar-playbooks
+# SOAR Playbooks — SOC Automation Library
+
+**Vendor-Neutral Incident Response Playbooks with Python Enrichment**
+Oluwaseyi Michael Falode | Cybersecurity & Cloud Security Engineer | Toronto, ON
+
+![SOAR](https://img.shields.io/badge/SOAR-4_Playbooks-0078D4?style=flat)
+![Python](https://img.shields.io/badge/Python-Enrichment_Scripts-3776AB?style=flat&logo=python&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Mapped-E63F2B?style=flat)
+![Human in the loop](https://img.shields.io/badge/Human--in--the--Loop-Approval_Gates-107C41?style=flat)
 
 > **Security Orchestration, Automation and Response (SOAR) playbooks for a modern SOC — platform-aware, vendor-neutral, human-in-the-loop by design.**
 
@@ -145,7 +153,7 @@ soar-playbooks/
 Detection Engineer | Cloud & Cybersecurity
 
 - Email: [seyi.falode@yahoo.com](mailto:seyi.falode@yahoo.com)
-- LinkedIn: [linkedin.com/in/oluwaseyi-falode](https://linkedin.com/in/oluwaseyi-falode)
+- LinkedIn: [https://www.linkedin.com/in/oluwaseyi-falode-bb3b1651](https://www.linkedin.com/in/oluwaseyi-falode-bb3b1651)
 - GitHub: [github.com/seyifalode-cmd](https://github.com/seyifalode-cmd)
 
 ---
