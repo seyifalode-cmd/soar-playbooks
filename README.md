@@ -152,7 +152,7 @@ soar-playbooks/
 **Oluwaseyi Michael Falode**
 Detection Engineer | Cloud & Cybersecurity
 
-- Email: [seyi.falode@yahoo.com](mailto:seyi.falode@yahoo.com)
+- Email: [seyi.falode@gmail.com](mailto:seyi.falode@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/oluwaseyi-falode-bb3b1651](https://www.linkedin.com/in/oluwaseyi-falode-bb3b1651)
 - GitHub: [github.com/seyifalode-cmd](https://github.com/seyifalode-cmd)
 
